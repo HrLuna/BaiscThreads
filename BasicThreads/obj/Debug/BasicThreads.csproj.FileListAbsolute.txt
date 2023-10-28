@@ -1,0 +1,10 @@
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.csproj.AssemblyReference.cache
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.frmBasicThread.resources
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.Properties.Resources.resources
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.csproj.GenerateResource.cache
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\bin\Debug\BasicThreads.exe.config
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\bin\Debug\BasicThreads.exe
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\bin\Debug\BasicThreads.pdb
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.exe
+C:\Users\Nancy\Desktop\Visual Studio\BasicThreads\BasicThreads\obj\Debug\BasicThreads.pdb
